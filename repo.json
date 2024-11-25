@@ -3,6 +3,6 @@
     "description": "https://t.me/cloudstream_extension_vn",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/nad72644/sabo/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/tongbinhnguyen/filmtnb/refs/heads/main/plugins.json"
     ]
 }
