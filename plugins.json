@@ -1,5 +1,22 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=chaturbate.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 10884,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "ChaturbateProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=nsfw&file=ChaturbateProvider_1726408138.cs3",
+        "name": "ChaturbateProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
